@@ -17,8 +17,12 @@
 
 .Success {
     color: #5C9210;
+    margin-left: 5px !important;  
+    padding: 0 !important;
 }
 
 .Danger {
     color: #944317;
+    margin-left: 5px !important;  
+    padding: 0 !important;
 }
