@@ -16,10 +16,9 @@
 
 @media (min-width: 600px) {
   .Modal {
-      width: 500px;
+      width: 500px; 
       left: calc(50% - 250px);
       margin-top: 20px !important; 
-      height: 750px !important;
       overflow: scroll;
   }
 }
